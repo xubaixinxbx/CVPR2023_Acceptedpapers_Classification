@@ -1,5 +1,6 @@
 # CVPR2023_Acceptedpapers_Classification
-[CVPR2023 Accepted Papers List](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)
+## [CVPR2023 Accepted Papers List](https://cvpr2023.thecvf.com/Conferences/2023/AcceptedPapers)
+
 
 **Part 1**: *Learning Optical Expansion from Scale Matching* ---- *Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Informationn*
 
@@ -13,11 +14,15 @@
 
 
 ## Neural Parameterization
-
 - [DA Wand: Distortion-Aware Selection using Neural Mesh Parameterization](https://threedle.github.io/DA-Wand/)
 ## Appearance Modeling & BRDFs
 - [NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images](https://github.com/aejion/NeuFace)
 ## Faster training
+### voxel/sparse-voxel/octree-based method
 - 
+### hash-table/triplane-based method
+- 
+
 ## 3D Generative Models with Topological Control
 -
+## Reconstruction/driven from Monocular video based-NeRF
