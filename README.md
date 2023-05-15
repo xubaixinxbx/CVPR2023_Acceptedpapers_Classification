@@ -17,12 +17,24 @@
 - [DA Wand: Distortion-Aware Selection using Neural Mesh Parameterization](https://threedle.github.io/DA-Wand/)
 ## Appearance Modeling & BRDFs
 - [NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images](https://github.com/aejion/NeuFace)
+- [NeFII: Inverse Rendering for Reflectance Decomposition with Near-Field Indirect Illumination](https://arxiv.org/pdf/2303.16617.pdf)
+- [NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects](https://arxiv.org/pdf/2303.14435.pdf)
+- [RelightableHands: Efficient Neural Relighting of Articulated Hand Models](https://sh8.io/#/relightable_hands)
+- [Multi-View Azimuth Stereo via Tangent Space Consistency](https://xucao-42.github.io/mvas_homepage/)
+- [VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization](https://arxiv.org/pdf/2303.17968.pdf)
+
 ## Faster training
 ### voxel/sparse-voxel/octree-based method
 - 
 ### hash-table/triplane-based method
-- 
-
-## 3D Generative Models with Topological Control
+- [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2212.10550.pdf)
+- [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/pdf/2211.16386.pdf)
+## 3D Shape Generative Models
 -
+
 ## Reconstruction/driven from Monocular video based-NeRF
+- [MonoAvatar: Learning Personalized High Quality Volumetric Head Avatars from Monocular RGB Videos](https://augmentedperception.github.io/monoavatar/)
+
+## Sparse views
+- [DINER: Depth-aware Image-based NEural Radiance fields](https://malteprinzler.github.io/projects/diner/DINER_arxiv.pdf)
+- [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/)
