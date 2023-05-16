@@ -13,7 +13,7 @@
 **Part 5**: *Token Boosting for Robust Self-Supervised Visual Transformer Pre-training* ---- *Mask-guided Matting in the Wild*
 
 
-## Neural Parameterization
+## Neural Parameterization & Editing
 - [DA Wand: Distortion-Aware Selection using Neural Mesh Parameterization](https://threedle.github.io/DA-Wand/)
 ## Appearance Modeling & BRDFs
 - [NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images](https://github.com/aejion/NeuFace)
