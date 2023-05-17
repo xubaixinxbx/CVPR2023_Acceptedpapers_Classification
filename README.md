@@ -29,8 +29,13 @@
 ### hash-table/triplane-based method
 - [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2212.10550.pdf)
 - [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/pdf/2211.16386.pdf)
+### Others
+- NeRFLight: Fast and Light Neural Radiance Fields using a Shared Feature Grid
+- [Real-Time Neural Light Field on Mobile Devices](https://arxiv.org/pdf/2212.08057.pdf)
+
 ## 3D Shape Generative Models
--
+- [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/pdf/2211.07600.pdf)
+- [OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis](https://arxiv.org/pdf/2303.15539.pdf)
 
 ## Reconstruction/driven from Monocular video based-NeRF
 - [MonoAvatar: Learning Personalized High Quality Volumetric Head Avatars from Monocular RGB Videos](https://augmentedperception.github.io/monoavatar/)
@@ -38,3 +43,18 @@
 ## Sparse views
 - [DINER: Depth-aware Image-based NEural Radiance fields](https://malteprinzler.github.io/projects/diner/DINER_arxiv.pdf)
 - [FreeNeRF: Improving Few-shot Neural Rendering with Free Frequency Regularization](https://jiawei-yang.github.io/FreeNeRF/)
+- [MixNeRF: Modeling a Ray with Mixture Density for Novel View Synthesis from Sparse Inputs](https://arxiv.org/pdf/2302.08788.pdf)
+- BlendFields: Few-Shot Example-Driven Facial Modeling
+
+## Geometry-awared NeRF
+- Towards Unbiased Volume Rendering of Neural Implicit Surfaces with Geometry Priors
+- [gSDF: Geometry-Driven Signed Distance Functions for 3D Hand-Object Reconstruction](https://arxiv.org/pdf/2304.11970.pdf)
+
+## Garment related
+- [ECON: Explicit Clothed humans Optimized via Normal integration](https://xiuyuliang.cn/econ/)
+- [CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://www.liuyebin.com/closet/)
+
+## UDF
+- [NeUDF: Leaning Neural Unsigned Distance Fields With Volume Rendering](https://arxiv.org/pdf/2304.10080.pdf)
+- [NeuralUDF: Learning Unsigned Distance Fields for Multi-View Reconstruction of Surfaces With Arbitrary Topologies](https://arxiv.org/pdf/2211.14173.pdf)
+- [NeAT: Learning Neural Implicit Surfaces with Arbitrary Topologies from Multi-view Images](https://xmeng525.github.io/xiaoxumeng.github.io/projects/cvpr23_neat)
