@@ -15,6 +15,7 @@
 
 ## Neural Parameterization & Editing
 - [DA Wand: Distortion-Aware Selection using Neural Mesh Parameterization](https://threedle.github.io/DA-Wand/)
+- [NeuralEditor: Editing Neural Radiance Fields via Manipulating Point Clouds](https://arxiv.org/pdf/2305.03049.pdf)
 ## Appearance Modeling & BRDFs
 - [NeuFace: Realistic 3D Neural Face Rendering from Multi-view Images](https://github.com/aejion/NeuFace)
 - [NeFII: Inverse Rendering for Reflectance Decomposition with Near-Field Indirect Illumination](https://arxiv.org/pdf/2303.16617.pdf)
@@ -22,7 +23,16 @@
 - [RelightableHands: Efficient Neural Relighting of Articulated Hand Models](https://sh8.io/#/relightable_hands)
 - [Multi-View Azimuth Stereo via Tangent Space Consistency](https://xucao-42.github.io/mvas_homepage/)
 - [VDN-NeRF: Resolving Shape-Radiance Ambiguity via View-Dependence Normalization](https://arxiv.org/pdf/2303.17968.pdf)
-
+- [ReLight My NeRF: A Dataset for Novel View Synthesis and Relighting of Real World Objects](https://eyecan-ai.github.io/rene/)
+- [Looking Through the Glass: Neural Surface Reconstruction Against High Specular Reflections](https://github.com/jiaxiongq/neus-hsr)
+- [HandNeRF: Neural Radiance Fields for Animatable Interacting Hands](https://arxiv.org/pdf/2303.13825.pdf)
+- [Generalizable Implicit Neural Representations via Instance Pattern Composers](https://github.com/kakaobrain/ginr-ipc)
+- [Semi-supervised Hand Appearance Recovery via Structure Disentanglement and Dual Adversarial Discrimination](https://arxiv.org/pdf/2303.06380.pdf)
+- [NeRFLix: High-Quality Neural View Synthesis by Learning a Degradation-Driven Inter-Viewpoint MiXer](https://redrock303.github.io/nerflix/)
+- [CloSET: Modeling Clothed Humans on Continuous Surface with Explicit Template Decomposition](https://www.liuyebin.com/closet/)
+- [DP-NeRF: Deblurred Neural Radiance Field with Physical Scene Priors](https://dogyoonlee.github.io/dpnerf/)
+- [NeRF-DS: Neural Radiance Fields for Dynamic Specular Objects](https://github.com/JokerYan/NeRF-DS)
+- [HairStep: Transfer Synthetic to Real Using Strand and Depth Maps for Single-View 3D Hair Modeling](https://arxiv.org/pdf/2303.02700.pdf)
 ## Faster training
 ### voxel/sparse-voxel/octree-based method
 - 
@@ -36,7 +46,7 @@
 ## 3D Shape Generative Models
 - [Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures](https://arxiv.org/pdf/2211.07600.pdf)
 - [OmniAvatar: Geometry-Guided Controllable 3D Head Synthesis](https://arxiv.org/pdf/2303.15539.pdf)
-
+- [Diffusion-Based Signed Distance Fields for 3D Shape Generation](https://kitsunetic.github.io/sdf-diffusion/)
 ## Reconstruction/driven from Monocular video based-NeRF
 - [MonoAvatar: Learning Personalized High Quality Volumetric Head Avatars from Monocular RGB Videos](https://augmentedperception.github.io/monoavatar/)
 
