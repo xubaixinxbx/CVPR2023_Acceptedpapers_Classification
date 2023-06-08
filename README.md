@@ -48,6 +48,7 @@
 ### hash-table/triplane-based method
 - [InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds](https://arxiv.org/pdf/2212.10550.pdf)
 - [Compressing Volumetric Radiance Fields to 1 MB](https://arxiv.org/pdf/2211.16386.pdf)
+- [Neuralangelo: High-Fidelity Neural Surface Reconstruction](https://research.nvidia.com/labs/dir/neuralangelo/)
 ### Others
 - NeRFLight: Fast and Light Neural Radiance Fields using a Shared Feature Grid
 - [Real-Time Neural Light Field on Mobile Devices](https://arxiv.org/pdf/2212.08057.pdf)
